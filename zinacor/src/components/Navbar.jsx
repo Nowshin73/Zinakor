@@ -3,7 +3,7 @@ const Navbar = () => {
     <nav data-aos="fade-down">
       <div className="nav-container">
         <div className="logo">
-          <img src="/assets/logo.svg" alt="Zinacor" />
+          <img src="https://delightful-manatee-8e9d66.netlify.app/assets/logo-f0ccee2f.svg" alt="Zinacor" />
         </div>
 
         <ul className="nav-links">

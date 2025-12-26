@@ -4,7 +4,7 @@ const Content2 = () => {
       <div className="c2-container">
         <div data-aos="fade-right" className="c2-left">
           <div className="c2-left-border-div"></div>
-          <img src="/assets/product.webp" alt="Product" />
+          <img src="https://delightful-manatee-8e9d66.netlify.app/assets/product-b12205ef.webp" alt="Product" />
           <div className="c2-left-div"></div>
         </div>
 
